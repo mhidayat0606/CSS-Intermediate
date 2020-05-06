@@ -1,0 +1,152 @@
+body{
+	margin: 0;
+	text-align: center;
+}
+
+h1{
+	margin: 0 auto;
+	font-family: 'Dancing Script', cursive;	
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;	
+}
+
+h3{
+	font-family: 'Kreon', serif;
+}
+
+a{
+	font-family: 'Inconsolata', monospace;
+}
+
+p{
+	font-family: 'Maven Pro', sans-serif;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: black;
+	border-width: 5px;
+	width: 25%
+}
+
+
+.menu{
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px
+	float:right;
+	position: absolute;
+	right: 50px;
+	top: 50px;
+
+}
+
+.word{
+	padding: 1em;
+	word-spacing: 1;
+}
+
+.menu-foto{
+	width: 5%;
+	border-radius: 100%;
+	border: 3px solid blue;
+	float: left;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+}
+
+.judul-top{
+	font-size: 5em;
+}
+
+.judul-top-sub{
+	font-size: 2em;
+}
+
+.top{
+	background-color: #E0FFFF;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle{
+	
+}
+
+.judul-profil{
+	margin-top: 50px;
+
+}
+
+.foto{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	border: 5px solid blue;
+	margin-top: 50px;
+}
+
+.icon{
+	width: 25%;
+	border-radius: 100%;
+	border: 5px solid blue;
+	float: left;
+	margin-right: 50px;
+	margin-bottom: 70px;
+
+}
+
+.icon2{
+	width: 25%;
+	border-radius: 100%;
+	border: 5px solid blue;
+	float: right;
+	margin-left: 30px;
+	margin-bottom: 70px;
+}
+
+.baris{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.baris-foto{
+	width: 50%;
+	margin: 50px auto 50px auto;
+	line-height: 2;
+}
+
+.bottom{
+	background-color: #E0FFFF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.bottom-line{
+	background-color: white;
+	padding-top: 100px;
+}
+
+.footer{
+	padding: 1em;
+	word-spacing: 1em;
+}
+
+.garis-bawah{
+	border-style: none;
+	border-top-style: solid;
+	border-color: green;
+	border-width: 5px;
+	width: 25%
+}
+.image1{
+	height: 400px;
+	width: 400px;
+}
